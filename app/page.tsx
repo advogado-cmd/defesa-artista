@@ -288,7 +288,7 @@ export default function Home() {
             <div className="grid md:grid-cols-2 gap-12 items-center">
               <div>
                 <img
-                  src="/images/carlosface-20-282-29.jpeg"
+                  src="/images/forumboa.png"
                   alt="Dr. Carlos Fernando Lopes de Oliveira"
                   className="rounded-lg shadow-2xl w-full"
                 />
